@@ -1,0 +1,25 @@
+2025-05-28 20:52:12,465 - ERROR - Failed to send email to Jane Doe: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-28 20:52:16,550 - ERROR - Failed to send email to  janedoe@gmail.com: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-28 20:54:49,547 - ERROR - Failed to send email to Jane Doe: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-28 20:54:53,625 - ERROR - Failed to send email to  janedoe@gmail.com: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-28 20:57:10,475 - ERROR - Failed to send email to  johndoe@gmail.com: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-28 20:57:14,544 - ERROR - Failed to send email to  janedoe@gmail.com: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-28 21:03:28,868 - ERROR - Failed to send email to  johndoe@gmail.com: STARTTLS extension not supported by server.
+2025-05-28 21:03:28,877 - ERROR - Failed to send email to  janedoe@gmail.com: STARTTLS extension not supported by server.
+2025-05-28 21:04:35,731 - INFO - Email sent to  johndoe@gmail.com
+2025-05-28 21:04:35,740 - INFO - Email sent to  janedoe@gmail.com
+2025-05-28 21:08:30,590 - ERROR - Failed to send email to  johndoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-450064a1ac4sm27907555e9.12 - gsmtp')
+2025-05-28 21:08:32,218 - ERROR - Failed to send email to  janedoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4507254b839sm23620735e9.12 - gsmtp')
+2025-05-28 21:10:52,369 - ERROR - Failed to send email to  johndoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-450064a1246sm28105005e9.10 - gsmtp')
+2025-05-28 21:10:54,049 - ERROR - Failed to send email to  janedoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4500e1dd65fsm27931085e9.33 - gsmtp')
+2025-05-28 21:13:35,753 - ERROR - Failed to send email to  johndoe@gmail.com: [Errno 11001] getaddrinfo failed
+2025-05-28 21:13:43,028 - ERROR - Failed to send email to  janedoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a4eac8add9sm2059064f8f.54 - gsmtp')
+2025-05-28 21:14:21,848 - ERROR - Failed to send email to  johndoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-45006498c72sm28361165e9.2 - gsmtp')
+2025-05-28 21:14:23,312 - ERROR - Failed to send email to  janedoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a4eac8a866sm1969601f8f.46 - gsmtp')
+2025-05-28 22:08:53,813 - ERROR - Failed to send email to  johndoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-4500e1d3c94sm28789475e9.28 - gsmtp')
+2025-05-28 22:08:55,320 - ERROR - Failed to send email to  janedoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-450064a1bd0sm29899395e9.15 - gsmtp')
+2025-05-28 22:09:42,279 - ERROR - Failed to send email to  johndoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-450cf2e7da5sm1039955e9.13 - gsmtp')
+2025-05-28 22:09:43,750 - ERROR - Failed to send email to  janedoe@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-450725403d1sm26436315e9.5 - gsmtp')
+2025-05-28 22:10:24,947 - ERROR - Failed to send email to  raehanmanu@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-450787d418dsm25482805e9.40 - gsmtp')
+2025-05-28 22:20:16,547 - ERROR - Failed to send email to  raehanmanu@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-45006498d2dsm30087615e9.4 - gsmtp')
+2025-05-28 22:21:17,813 - INFO - Email sent to  raehanmanu@gmail.com
